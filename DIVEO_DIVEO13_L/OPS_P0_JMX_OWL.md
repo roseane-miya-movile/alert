@@ -1,3 +1,5 @@
+teste
+
 **Command:** [http://service-registry.it.movile.com:29000/InvokeAction//MmcMonitor%3Atype%3DMmcMoExit/action=reCheckMoExitMonitoring?action=reCheckMoExitMonitoring](http://service-registry.it.movile.com:29000/InvokeAction//MmcMonitor%3Atype%3DMmcMoExit/action=reCheckMoExitMonitoring?action=reCheckMoExitMonitoring)   
 **Server:** 200.189.169.13 e 200.189.169.28   
    
