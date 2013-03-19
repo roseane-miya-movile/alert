@@ -1,5 +1,3 @@
-teste
-
 **Server:** 200.189.169.13   
 **Ticket:** [Jira](issues.movile.com)
    
@@ -22,3 +20,8 @@ service owl start
 + Caso algum servidor seja restabelecido ou o acesso ao usuário coruja deja disponibilizado novamente, realize um restart do Owl (200.189.169.13  e 200.189.169.28)
 + Caso não haja sucesso entrar em contato com Andrew e equipe.  
 PS.: Caso este alarme esteja em critical o script já irá enviar um email para sys@movile.com
+
+Contato N3:
+-----------
++ Igor Ribeiro
++ Fabio Silva
